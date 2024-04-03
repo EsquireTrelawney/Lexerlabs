@@ -1,0 +1,7 @@
+C:\Users\Ryzen4Life.DESKTOP-1ORPN4Q\Desktop\Lexer\Lexer\bin\Release\Lexer.exe
+C:\Users\Ryzen4Life.DESKTOP-1ORPN4Q\Desktop\Lexer\Lexer\bin\Release\Lexer.pdb
+C:\Users\Ryzen4Life.DESKTOP-1ORPN4Q\Desktop\Lexer\Lexer\obj\Release\Lexer.Form1.resources
+C:\Users\Ryzen4Life.DESKTOP-1ORPN4Q\Desktop\Lexer\Lexer\obj\Release\Lexer.Properties.Resources.resources
+C:\Users\Ryzen4Life.DESKTOP-1ORPN4Q\Desktop\Lexer\Lexer\obj\Release\Lexer.csproj.GenerateResource.cache
+C:\Users\Ryzen4Life.DESKTOP-1ORPN4Q\Desktop\Lexer\Lexer\obj\Release\Lexer.exe
+C:\Users\Ryzen4Life.DESKTOP-1ORPN4Q\Desktop\Lexer\Lexer\obj\Release\Lexer.pdb

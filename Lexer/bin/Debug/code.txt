@@ -1,0 +1,6 @@
+       PROGRAM1 PROGRAM1 test 10.3
+       INTEGER a = 10
+       INTEGER b1 = 4
+       REAL bit = (a + b1) / 2
+       IF (bit.LT.7) RETURN 1       
+       END
